@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3EB0-25B5
+
+ Directory of C:\Users\Taufik\Desktop\MyGitProject
+
+11/01/2021  02:30 PM    <DIR>          .
+11/01/2021  02:30 PM    <DIR>          ..
+11/01/2021  02:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  19,250,372,608 bytes free
